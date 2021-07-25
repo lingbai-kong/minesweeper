@@ -1,5 +1,5 @@
 # minesweeper
-同济大学CS《高级程序语言设计1》大作业: 扫雷游戏TongJi University CS C++ homework: minesweeper
+同济大学CS《高级程序语言设计1》大作业: 扫雷游戏TongJi University CS C++ assignment: minesweeper
 ## 概述
 
 本项目是为2019年同济大学计算机系高级程序语言设计1期末作业。是一个简单的控制台扫雷小游戏。
